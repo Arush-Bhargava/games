@@ -1,0 +1,21 @@
+ h1 { color: brown; } 
+ .header{
+     justify-content: space-between;
+     display: flex;
+     background-color:cadetblue ;
+ }
+ .menu{
+     background-color:gray;
+ }
+ .grid{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+ }
+ .footer{
+     display: flex;
+     justify-content: flex-end;
+ }
+ p,h2{
+     text-align: center;
+ }
